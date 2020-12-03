@@ -1,0 +1,24 @@
+@media (max-width:991px){
+.as-1 { height:58vh; }
+.as-2 { margin-top:-130px; }
+.as-10 { font-size: 35px; }
+.soto-as { font-size: 17px; }
+.as-25 { height: auto; }
+.as-30a { height: auto; }}
+
+@media (max-width:767px){
+.Hoke { margin-top: 50px;margin-bottom: 15px; }}
+
+@media (max-width:575px){
+.as-10 { font-size: 25px; }
+.rs-4 { font-size: 30px; }
+.as-00 { background: #fff; color:#16c9f6;}}
+
+@media (max-width:480px){
+.as-10 { font-size: 18px; }
+.rs-1 { font-size: 14px; }
+.rs-4 { font-size: 25px; }
+.rs-2 { font-size: 25px;}}
+
+@media (max-width:360px){
+.as-2 { margin-top:-80px; }}

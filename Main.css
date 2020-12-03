@@ -1,0 +1,71 @@
+* { list-style-type:none; padding: 0; margin: 0;}
+body { overflow-x:hidden; }
+a { text-decoration:none; }
+li { list-style-type:none; }
+html { scroll-behavior:smooth; }
+						/* --- Section-1 Start --- */
+.nav-item { text-transform:uppercase;}
+.as-1 { background:linear-gradient(rgba(44, 62, 80,0.8),rgba(44, 62, 80,0.8)), url('img/as (8).jpg');
+height: 100vh; background-size:cover; background-position:center; background-attachment:fixed;}
+.navbar:before{content: "";position: absolute;top: 0%;bottom:0%;left: 0%;right: 0%;opacity:1; 
+z-index:-1;background: linear-gradient(to right,#2f3542,#57606f);}
+.as-2 { position:absolute; top:50%; left:50%; transform: translate(-50%,-50%); text-align: center; }
+.as-3 { background: none; color: #fff; padding: 10px 20px; border-radius: 30px; border: 1px solid #fff; 
+margin:12px; }
+.navbar-toggler-icon { font-size: 20px }
+.as-4 { background: none; color: #fff; padding: 10px 20px; border-radius: 30px; border: 1px solid #fff; 
+margin:12px; }
+.as-3:hover { background: #fff; color: blue; transition: .5s; } 
+.as-4:hover { background: #fff; color: blue; transition: .5s; } 
+						/* --- Section-1 Eind --- */
+						/* --- Section-2 Start --- */
+.fa {color:#2fccd0; }
+.as-9 {padding: 50px; transition: .7s;}
+.as-8:hover { box-shadow: 0 0 10px 0 rgba(0, 0, 0, .3); transform: translateY(-20px);}
+						/* --- Section-2 Eind --- */
+						/* --- Section-4 Start --- */
+.as-14 { color:#8e44ad;  }
+.bg-as { background: #dfe4ea; padding-bottom:px; }
+						/* --- Section-4 Eind --- */
+						/* --- Section-5 Start --- */
+.as-15a { position: relative; }
+.as-15a:before{content: ""; position:absolute; top:0%; bottom:0%; left:0%; right:0%; opacity:1; z-index: -1;
+background: linear-gradient(160deg, #16c9f6 55%, #fff 0%);}
+.as-16 { font-weight: bold;}
+span { font-size: 40px; color: red; }
+.card-footer .button { background:none; padding:10px 20px; border-radius:30px; border: 1px solid #16c9f6!important; }
+.card:hover .card-header h3, .card:hover .card-body span  { color:#16c9f6;  }
+.card:hover .card-footer button { color: #fff; background: #16c9f6; }
+.card-header h3 { font-weight: bold; text-transform: uppercase; }
+.card { transition: .7s; }
+.vv:hover { transform: translateY(-20px); box-shadow: 0 0 10px 0 rgba(0, 0, 0, .5); }
+.as-17 { transform: translateY(-20px); }
+.as-21 { margin-bottom: 90px; }
+						/* --- Section-5 Eind --- */
+						/* --- Section-6 Start --- */
+.as-25 { width: 100%; height: 100vh; text-align: center; background: #2c3e50; color: #fff; }
+.as-26 h3{ padding-top: 70px; }
+.as-26 p { font-size:17px; margin-bottom: 40px;}
+.card-body img { width: 100px; height: 100px; border-radius: 50%; margin-top:30px;margin-bottom: 20px;}
+.card { border: none; }
+.box { background: #2c3e50;  }
+.box p { font-size: 17px; }
+.carousel-indicators { margin:0 0 -40px 0; }
+.box { transition: .7s; }
+.box:hover { background: #fff; color:#2c3e50; border-radius: 10px;}
+						/* --- Section-6 Eind --- */
+						/* --- Section-7 Start --- */
+.as-30a {position: relative; text-align: center; padding: 70px; width:100%; height:100vh;}
+.as-31a { margin-bottom:80px;}
+::placeholder{color:#27ae60!important; }
+.as-30a:before{content: ""; position:absolute; top:0%; bottom:0%; left:0%; right:0%; opacity:1; z-index: -1;
+background: linear-gradient(330deg, #16c9f6 55%, #fff 0%);}
+.as-00 { background: #16c9f6; border:1px solid #16c9f6; padding: 12px 25px; color: #16c9f6; 
+border-radius:30px;transition: .7s;}
+form:hover .as-00 { background: #fff; color:#16c9f6;}
+						/* --- Section-7 Eind --- */
+						/* --- Section-8 Start --- */
+.vvg{ border-radius: 30px; }
+.got { border-radius: 30px; }
+						/* --- Section-8 Eind --- */
+
